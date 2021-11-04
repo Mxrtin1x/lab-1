@@ -1,0 +1,9 @@
+body{
+	background-image: url("background.png");
+}
+
+p{
+	width: auto;
+	float: left;
+}
+	
